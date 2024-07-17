@@ -1,0 +1,88 @@
+.collectionbanner{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 80vh;
+    
+}
+.collectionbanner img{
+    
+    width: 90%;
+    height: 100%;
+    /* object-fit: contain; */
+}
+.services{
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.feature{
+    width: 90%;
+    height: 20vh;
+   
+    display: flex;
+    
+}
+.left{
+    width: 20%;
+    height: 100%;
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 2px;
+    color: rgb(254, 199, 0);
+}
+.right{
+    width: 80%;
+    height: 100%;
+    font-size: 15px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    line-height: 25px;
+}
+
+.lefts {
+    width: 40%;
+    height: 100%;
+    
+}
+
+.rights {
+    width: 60%;
+    height: 100%;
+    font-size: 15px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+
+.allproducts{
+width: 100%;
+height: 60vh;
+
+display: flex;
+/* padding: 20px; */
+}
+.prod1{
+    width: 23%;
+    height: 48%;
+    background-color: rgb(228, 222, 222);
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+.prod1 img{
+    width: 100%;
+    height: 80%;
+    object-fit: contain;
+}
