@@ -9,13 +9,13 @@ https://github.com/user-attachments/assets/c13c004d-8694-4c9b-a20e-617d96ac336d
 Shopper's.In is a comprehensive e-commerce platform designed to provide a seamless and enjoyable shopping experience for users. The platform features a wide array of products and incorporates several key functionalities to enhance user experience, including user authentication, product search, shopping cart management, and order placement. Below is a detailed description of the various components and features of Shopper's.In:
 
 <h1>Components:</h1>
-Navbar:
+<h3>Navbar:</h3>
 
 Contains the site's logo and name for easy brand recognition.
 Features a search bar for users to search products on the platform.
 Displays user authentication links (Signup, Login) or the logged-in user's email and a signout option.
 Provides quick access to the shopping cart.
-Home:
+<h3> Home:</h3>
 
 The landing page for the platform, showcasing popular products and categories.
 Includes navigation links to various sections such as Mens, Collection, and more.
